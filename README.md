@@ -55,7 +55,7 @@ idFacet/
 ## 1. Clonar projeto
 
 ```bash
-git clone https://github.com/seuusuario/idFacet.git
+git clone https://github.com/seuusuario/idFace.git
 ```
 
 ---
