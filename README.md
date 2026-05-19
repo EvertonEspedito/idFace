@@ -8,6 +8,7 @@ Este projeto realiza:
 - Captura de rostos pela webcam
 - Treinamento de reconhecimento facial
 - Reconhecimento facial em tempo real
+- Exclusão de perfis
 - Integração com banco de dados SQLite
 
 O sistema utiliza:
