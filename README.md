@@ -1,4 +1,4 @@
-# Sistema de Reconhecimento Facial com Python e OpenCV
+# IdFace - Sistema de Reconhecimento Facial com Python e OpenCV
 
 ## 📌 Descrição
 
