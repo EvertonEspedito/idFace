@@ -2,6 +2,6 @@
 __pycache__/
 *.pyc
 *.pyo
-fotos/
+/fotos/
 classificadorLBPH_V1.yml
 *.db
